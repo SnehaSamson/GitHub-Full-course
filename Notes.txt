@@ -64,6 +64,7 @@ Commands used in command prompt to work with Git
 8. git init -> To initialize the branch.
 9. git add . -> To add all the untracked files to the repository
 10. git add .\filename -> To add the particular untracked file to the repo
+11. git commit -m "Add some notes to commit" -> This will save all the updated data
 
 After adding files then the files will be in staging area. In this stage you can check with the files whether you want file or you want to remove it.
 
