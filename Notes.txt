@@ -1,0 +1,64 @@
+Day 1 
+* Agenda for the day:
+- Version control system
+- Git introduction and downloading
+- Terminal commands
+- Basic Git configuration
+
+Version control system : 
+  - What is versions how this version make sense :
+    - It includes the following things : 
+      - New Features
+      - Bugs Removal/ fixes
+      - Upgrades
+      - Security patches
+      - Optimization
+
+A version control system is a software that tracks changes to a file or set of files over time so that you can recall specific versions later.
+It also allows you to work together with other programmers.
+
+- The version control system is a collection of software tools that help a team to manage changes in a source code. 
+- It uses a special kind of database to keep track of every modification to the code.
+- Developers can compare earlier versions of the code with an older version to fix the mistakes.
+
+* Benefits of the Version Control System : 
+- The version contorl system is very helpful and beneficial in software development.
+- Developing software without using version control is unsafe.
+- It provides backups for uncertainty.
+- Version control systems offer a speedy interface to developers.
+
+Branching : It is special kind of feature we can create a seperate branches so that all the team members can collaborate and work on the same file or project.
+
+Merging : It is technique of joining all the code which is written by all the developers.
+
+Features of version control system : 
+1. Centralized : 
+      With help of this feature all the team members can work independently.
+
+2. Distributed :
+       This is to distribute the work with the team member and work together.
+
+
+How does Git work ?
+
+- 1. First thing we need to create a Repository.
+- 2. Clone existing Repository.
+
+First we will create a Branching
+local laptop
+add 
+commit
+push
+Merge
+
+Staging area : It is an indexing area
+
+Commands used in command prompt to work with Git
+1. git -> To check whether the git bash or git is installed or not.
+2. git --version -> to check the version of the git.
+3. git config --global user.name "Name" -> To configure the git globally in the system. and giving your name.
+4. git config --global user.email "name@gmail.com - > To configure globallu and setting the email.
+5. git config --global user.name -> To check the user name set globally to the system
+6. git config --global user.email -> To check the user email set globally to the system.
+
+
