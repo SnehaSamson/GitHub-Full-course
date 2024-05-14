@@ -60,5 +60,10 @@ Commands used in command prompt to work with Git
 4. git config --global user.email "name@gmail.com - > To configure globallu and setting the email.
 5. git config --global user.name -> To check the user name set globally to the system
 6. git config --global user.email -> To check the user email set globally to the system.
+7. git status -> To check the status of the repository.
+8. git init -> To initialize the branch.
+9. git add . -> To add all the untracked files to the repository
+10. git add .\filename -> To add the particular untracked file to the repo
 
+After adding files then the files will be in staging area. In this stage you can check with the files whether you want file or you want to remove it.
 
