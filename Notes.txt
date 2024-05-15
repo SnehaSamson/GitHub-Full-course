@@ -65,6 +65,20 @@ Commands used in command prompt to work with Git
 9. git add . -> To add all the untracked files to the repository
 10. git add .\filename -> To add the particular untracked file to the repo
 11. git commit -m "Add some notes to commit" -> This will save all the updated data
+12. git log -> To check the complete history of the files.
+13. git config --list -> Shows the current config details.
+14. git config --global core.editor "Editor Name" -> To set the editor 
+15. git branch "branch_name" -> This command creates a branch.
+16. git checkout "branch name" -> This will help to switch to the branch.
 
 After adding files then the files will be in staging area. In this stage you can check with the files whether you want file or you want to remove it.
+
+Working Directory Vs Repository
+
+How to create a Repo?
+Git init command used to initialize the repository, We can also clone it.
+Start working in local adding files or modifying files then save it by using git add command then commit the saved items using
+git commit then push it to repo using git push.
+
+
 
