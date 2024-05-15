@@ -70,6 +70,9 @@ Commands used in command prompt to work with Git
 14. git config --global core.editor "Editor Name" -> To set the editor 
 15. git branch "branch_name" -> This command creates a branch.
 16. git checkout "branch name" -> This will help to switch to the branch.
+17. git branch -a -> This will show all the branch.
+18. git branch -d "branch name" -> This will delete the branch.
+
 
 After adding files then the files will be in staging area. In this stage you can check with the files whether you want file or you want to remove it.
 
